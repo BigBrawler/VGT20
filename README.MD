@@ -17,7 +17,7 @@ Steps in this guide will be short so no worries, be happy!
 
 
 ### Download Parsec
-Create a free account on Parsec's Website. [https://parsecgaming.com/]
+Create a free account on Parsec's website. [https://parsecgaming.com/]
 
 After sign-up you will have to check your email to confirm your account.
 
