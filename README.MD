@@ -46,10 +46,11 @@ Click the Reload link and you will see three arcade machine boxes.
 
 Connect to one and it will connect you to the arcade machine.
 
+### Controlling the Arcade Machine 
 Go up/down to change playlists.
 
 Go left/right to change games.
 
-If your controller doesn't seemed mapped correctly press TAB on your keyboard to open the controls menu.
+If your controller doesn't work in a game press TAB on your keyboard to open the controls menu, some games don't have player 2's controls set up.
 
 To leave use the mouse to click the Parsec icon in the top-left hand corner of your screen, or press CTRL-SHIFT-M and use the arrow and enter keys to select disconnect.
