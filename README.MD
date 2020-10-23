@@ -13,6 +13,9 @@ Steps in this guide will be short so no worries, be happy!
 
 ### Download Parsec
 Get a free account from [https://parsecgaming.com/]
+
 After sign-up you'll have to check your email to confirm your account.
+
+You'll want to download the app instead of running it through your web browser. [https://parsecgaming.com/downloads/]
 
 ### Configure Parsec
