@@ -31,7 +31,6 @@ Click the gear on the left side to open settings.
 Click Client (if not selected) and set the following:
 - `Decoder ________________ : AMD or NVIDIA`
 - `H.265 (HEVC) ___________ : On`
-- `Decoder Compatability __ : On`
 
 Next, you need to add these arcade bots to your friends list:
 - `Grievance.Arcade-1`
