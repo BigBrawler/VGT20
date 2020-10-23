@@ -31,6 +31,8 @@ Click the gear on the left side to open settings.
 Click Client (if not selected) and set the following:
 - `Decoder ________________ : AMD or NVIDIA`
 - `H.265 (HEVC) ___________ : On`
+- `Immersive Mode__________ : Keyboard`
+You need Immersive Mode to configure your controller in some games. Press TAB if controls don't work/need remapping.
 
 Next, you need to add these arcade bots to your friends list:
 - `Grievance.Arcade-1`
