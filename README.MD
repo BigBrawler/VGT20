@@ -31,9 +31,6 @@ Click the gear on the left side to open settings.
 Click Client (if not selected) and set the following:
 - `Decoder ________________ : AMD or NVIDIA`
 - `H.265 (HEVC) ___________ : On`
-- `Immersive Mode__________ : Keyboard`
-
-You need Immersive Mode to configure your controller in some games. Press TAB if controls don't work/need remapping.
 
 Next, you need to add these arcade bots to your friends list:
 - `Grievance.Arcade-1`
@@ -48,5 +45,11 @@ Go to the Computers tab in Parsec (the icon of the 80s style PC on the left)
 Click the Reload link and you will see three arcade machine boxes. 
 
 Connect to one and it will connect you to the arcade machine.
+
+Go up/down to change playlists.
+
+Go left/right to change games.
+
+If your controller doesn't seemed mapped correctly press TAB on your keyboard to open the controls menu.
 
 To leave use the mouse to click the Parsec icon in the top-left hand corner of your screen, or press CTRL-SHIFT-M and use the arrow and enter keys to select disconnect.
