@@ -32,7 +32,6 @@ Click Client (if not selected) and set the following:
 - `Decoder ________________ : AMD or NVIDIA`
 - `H.265 (HEVC) ___________ : On`
 - `Decoder Compatability __ : On`
-- `Immersive Mode _________ : Off`
 
 Next, you need to add these arcade bots to your friends list:
 - `Grievance.Arcade-1`
