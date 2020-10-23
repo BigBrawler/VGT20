@@ -1,4 +1,4 @@
-## Virtual Get Together 2020
+## Grievance Virtual Get Together 2020
 ### Summary
 
 This guide will get you set up to play the Arcade Games for the 2020 Virtual Get Together event!
