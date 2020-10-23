@@ -49,4 +49,4 @@ Click the Reload link and you will see three arcade machine boxes.
 
 Connect to one and it will connect you to the arcade machine.
 
-To leave use the mouse to click the Parsec icon in the top-left hand corner of your screen, or press ALT-F4 on your keyboard.
+To leave use the mouse to click the Parsec icon in the top-left hand corner of your screen, or press CTRL-SHIFT-M and use the arrow keys to select disconnect.
