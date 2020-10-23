@@ -13,7 +13,7 @@ You can find them on Amazon for around thirty USD in the states as well.
 
 The arcade will open starting at 1:00PM ET on the 24th of October.
 
-Steps in this guide will be short so no worries, be happy!
+Steps in this guide will be short so don't worry, be happy!
 
 
 ### Download Parsec
