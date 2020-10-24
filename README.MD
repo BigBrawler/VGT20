@@ -33,9 +33,9 @@ Click Client (if not selected) and set the following:
 - `H.265 (HEVC) ___________ : On`
 
 Next, you need to add these arcade bots to your friends list:
-- `Grievance.Arcade-1`
-- `Grievance.Arcade-2`
-- `Grievance.Arcade-3`
+- `Grievance.Arcade--1`
+- `Grievance.Arcade--2`
+- `Grievance.Arcade--3`
 
 If it doesn't accept your friend invite with a few minutes let Oath know on discord and it will be done manually.
 
